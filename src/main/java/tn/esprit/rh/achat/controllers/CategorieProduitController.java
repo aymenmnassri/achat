@@ -7,7 +7,8 @@ import tn.esprit.rh.achat.entities.CategorieProduit;
 import tn.esprit.rh.achat.services.ICategorieProduitService;
 
 import java.util.List;
-//vvvvv
+//vvvvvdffh
+//scqsdqcfqs
 @RestController
 @Api(tags = "Gestion des categories Produit")
 @RequestMapping("/categorieProduit")
